@@ -1,0 +1,2 @@
+# nosferatu
+Discord Slash Commands
